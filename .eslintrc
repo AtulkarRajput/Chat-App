@@ -32,7 +32,8 @@
     "react/self-closing-comp": "warn",
     "arrow-body-style": [0],
     "react/jsx-no-undef": "off",
-    "react/jsx-no-constructed-context-values": "off"
+    "react/jsx-no-constructed-context-values": "off",
+    "react/jsx-no-useless-fragment": "off"
     //"import/no-unresolved": "off"
   }
 }
