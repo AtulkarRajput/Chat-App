@@ -71,6 +71,7 @@ const Bottom = () => {
   return (
     <div>
       <InputGroup>
+        <AttachmentBtnModal />
         <Input
           placeholder="Write a new message here..."
           value={input}
