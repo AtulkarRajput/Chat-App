@@ -107,6 +107,7 @@ const Bottom = () => {
     <div>
       <InputGroup>
         <AttachmentBtnModal afterUpload={afterUpload} />
+        <AudioMsgBtn afterUpload={afterUpload} />
         <Input
           placeholder="Write a new message here..."
           value={input}
